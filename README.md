@@ -31,7 +31,9 @@ Javascript
 Open Weather APIs - Current Weather Data, UV Index and 5 day/ 3 Hour Forecast
 Bootstrap API
 
-## Scree Shot 
+## Screen Shot 
+
+![06-server-side-apis-homework-demo](https://github.com/Ahha0801/Weather-Dashboard/assets/128229173/614640a3-85a6-4f27-b978-710a24077107)
 
 ## Website
 
